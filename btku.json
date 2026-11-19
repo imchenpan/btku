@@ -1,5 +1,5 @@
 {
-  "name": "我的 LibreTV 源列表",
+  "name": "我的点播源列表",
   "version": 3,
   "sources": [
     { "name": "暴风资源", "url": "https://bfzyapi.com/api.php/provide/vod", "isAdult": false },
